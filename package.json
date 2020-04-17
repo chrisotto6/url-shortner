@@ -2,6 +2,7 @@
   "name": "url-shortner",
   "version": "1.0.0",
   "description": "",
+  "baseUrl": "cmo-short.netlify.app",
   "main": "index.js",
   "scripts": {
     "shorten": "netlify-shortener"
