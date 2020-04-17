@@ -1,0 +1,23 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "shorten": "netlify-shortener"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisotto6/url-shortner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisotto6/url-shortner/issues"
+  },
+  "homepage": "https://github.com/chrisotto6/url-shortner#readme",
+  "devDependencies": {
+    "netlify-shortener": "^2.1.1"
+  }
+}
